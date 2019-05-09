@@ -17,6 +17,7 @@ public class GitTest2 {
     public static void main(String[] args) {
         // TODO code application logic here
         // this file has been changes
+        // new line added
     }
     
 }
